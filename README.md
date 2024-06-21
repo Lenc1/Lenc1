@@ -1,15 +1,15 @@
-## 自我介绍
+## 自我介绍  About me
 
-普通二本计算机学生
+Second year of undergraduate
 
-## 统计信息
+## 统计信息 Statistics
 
 Some of my Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Lenc1&show_icons=true&include_all_commits=true)](https://github.com/Lenc1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenc1&layout=compact)](https://github.com/Lenc1/github-readme-stats)
 
-## 项目
+## 项目 Projects
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=Memo)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=Sound_Channel_Detect)
@@ -18,7 +18,7 @@ Some of my Github Stats
 
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 
-## 联系方式
+## 联系方式 Contact me
 
 Email：lbw18774188810@outlook.com
 
