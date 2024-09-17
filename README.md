@@ -1,6 +1,6 @@
 ## 自我介绍  About me
 
-Second year of undergraduate
+third year of undergraduate
 
 ## 统计信息 Statistics
 
