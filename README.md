@@ -12,7 +12,7 @@ Some of my Github Stats
 ## 项目 Projects
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=Memo)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lecn1&repo=GreenestTogether)
+![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lecn1&repo=GreenestTogether)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=Sound_Channel_Detect)
 
 ## 所使用的的计算机语言
