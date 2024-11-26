@@ -1,6 +1,7 @@
 # Welcome to my page!
 ## 自我介绍  About me
 
+Chinese student
 third year of undergraduate
 
 ## 统计信息 Statistics
