@@ -13,8 +13,10 @@ Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Lenc1&show_icons=true&include_all_commits=true)](https://github.com/Lenc1/github-readme-stats)
 
 ## 项目 Projects
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=Memo)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=Memo-2.0)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=GreenestTogether)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenc1&repo=Memo)
 
 ## 技术栈 Technology Stack
 
