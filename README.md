@@ -3,7 +3,7 @@
 
 Chinese student
 
-third year of undergraduate
+Finding opportunity...
 
 ## 技术栈 Technology Stack
 
